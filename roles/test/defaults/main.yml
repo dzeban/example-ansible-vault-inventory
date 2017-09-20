@@ -1,0 +1,6 @@
+---
+
+test_packages:
+  - tmux
+  - vim
+  - nginx
